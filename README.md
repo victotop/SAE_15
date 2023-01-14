@@ -3,9 +3,9 @@
 ## Description
 Les enseignants aiment profiter de leurs vacances de façon optimale. L’objectif de ce projet est
 d’afficher, pour un enseignant donné, l’intitulé, la date et l’heure de leur dernière intervention
-avant chaque période de vacance, ainsi que l’intitulé, la date et l’heure de leur première
+avant chaque période de vacances, ainsi que l’intitulé, la date et l’heure de leur première
 intervention après cette période de vacances, ainsi que le nombre exact de jours complets de
-vacances dont il dispose.
+vacances dont ils disposent.
 
 ## Utilisation
 Vous pouvez exécuter le programme avec la commande.
@@ -18,13 +18,13 @@ Exemple
 ```bash
 DUPONT ANTOINE
 ```
-Vous avez à votre disposition deux script bash.
+Vous avez à votre disposition deux scripts bash.
 
-Le premier permet d'installer les modules nécessaires à l'emploi du programme python
+Le premier permet d'installer les modules nécessaires à l'emploi du programme python.
 ```bash
 sh install.sh
 ```
-Il est possible que le programme crée un nombre important de fichier .png et .pdf si il est exécuté plusieurs fois.
+Il est possible que le programme crée un nombre important de fichiers .png et .pdf si il est exécuté plusieurs fois.
 
 Le second script permettra alors de supprimer tout ses fichiers (attention à ne pas glisser de fichier .pdf ou .png dans le dossier avant d'éxecuter la commande auquel cas ces fichiers seraient supprimer)
 ```bash
